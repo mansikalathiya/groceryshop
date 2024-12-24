@@ -52,4 +52,4 @@ Ensure the following are installed on your system:
 
 1. **Clone the Repository**  
    ```bash  
-   git clone https://github.com/vyansidiyora2000/grocery-shop.git  
+   git clone https://github.com/mansikalathiya/groceryshop.git
